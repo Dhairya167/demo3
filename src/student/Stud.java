@@ -15,6 +15,8 @@ public class Stud {
      */
     public static void main(String[] args) {
         
+        System.out.println("My Name is Dhairya Patel");
+        
         Student s=new Student();
         Student[] sList=new Student[4];
         
